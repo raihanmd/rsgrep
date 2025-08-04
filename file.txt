@@ -9,3 +9,5 @@ To tell your name the livelong day
 To an admiring bog!
 
 Hello World
+
+running `cargo run bog file.txt > out.txt 2> error.txt`
